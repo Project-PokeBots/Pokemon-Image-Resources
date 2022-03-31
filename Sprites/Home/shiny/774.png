@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <title>Fehler</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <meta name="theme-color" content="#368ee2">
+    <link rel="stylesheet" type="text/css" href="https://static.pokefans.net/stylesheets/pokefans/screen.css?version=2017-2">
+    <link rel="stylesheet" type="text/css" href="https://static.pokefans.net/stylesheets/pokefans/pokemon.css?version=2018-11">
+    <link rel="stylesheet" type="text/css" href="https://static.pokefans.net/font-awesome/css/font-awesome.min.css?version=43">
+    <link rel="shortcut icon" type="image/x-icon" href="https://static.pokefans.net/images/favicon.ico">
+    
+    <script type="text/javascript" src="https://static.pokefans.net/javascript/pokefans/javascript.js"></script> 
+	        <meta name="robots" content="noindex,follow" />
+	<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/Pokefans/News/Pokemon" title="Pokémon: News und Berichte" />
+	<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/Pokefans/Artikel/Pokemon" title="Pokémon: Informationen und Spielhilfen" />
+	<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/Pokefans/News" title="alle Bereiche: News und Berichte" />
+	<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/Pokefans/Artikel" title="alle Bereiche: Informationen und Spielhilfen" /><meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Pokefans" />
+	<meta property="og:title" content="Fehler" />
+	<meta property="og:url" content="https://files.pokefans.net/sprites/home/0774-000-shiny.png" />
+	<meta name="twitter:card" value="summmary" />
+	<meta name="twitter:site" value="@PokefansNet" />
+	<link rel="publisher" href="https://plus.google.com/111655346383430241304" />
+        <link rel="search" type="application/opensearchdescription+xml" title="Pokefans" href="https://pokefans.net/service/opensearch/pokefans.xml">
+        <link rel="search" type="application/opensearchdescription+xml" title="Pokefans (Pokedex)" href="https://pokefans.net/service/opensearch/pokedex.xml">
+        <link rel="search" type="application/opensearchdescription+xml" title="Pokefans (Forum)" href="https://pokefans.net/service/opensearch/forum.xml">
+        <link rel="search" type="application/opensearchdescription+xml" title="Pokefans (User)" href="https://pokefans.net/service/opensearch/user.xml">
+</head>
+
+<body>
+
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TS4F6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TS4F6');</script>
+
+<header id="header">
+    <div id="search" class="responsive-larger-2">
+        <div class="container clearfix">
+            <a href="https://pokefans.net/"><img src="//static.pokefans.net/images/logo.svg" style="height:35px;" class="pull-left hidden-xs" /></a>
+            <form action="https://pokefans.net/search" method="post" class="pull-right">
+                <span id="searchbox">
+                    <input type="text" name="search" placeholder="Suche auf Pokefans" />
+                    <select name="search-index">
+                        <option value="pokefans">Website</option>
+                        <option value="pokedex">Pokédex</option>
+                        <option value="forum">Forum</option>
+                        <option value="mainpage">ohne Forum</option>
+                        <option value="user">User</option>
+                        <option value="internet">Internet</option>
+                    </select>
+                </span>
+                <input type="submit" value="Suchen" class="button" />
+            </form>
+        </div>
+    </div>
+    <div id="menu" class="menu">
+        <div class="container clearfix">
+            <menu>
+                                    <li class="responsive-larger-3"><a href="https://pokefans.net/">Pokefans</a></li>
+                                    <li><a href="https://pokefans.net/spiele/"><span class="responsive-larger-x">Pokémon-</span>Spiele</a></li>
+                                    <li><a href="https://pokefans.net/pokedex/">Pokédex</a></li>
+                                    <li class="responsive-larger-2"><a href="https://pokefans.net/strategie/"><span class="responsive-larger-x">Kampf & </span>Strategie</a></li>
+                                    <li class="responsive-larger-1"><a href="https://fanart.pokefans.net/">Fanart<span class="responsive-larger-x"> & Zeichnungen</span></a></li>
+                                    <li class="responsive-larger-3"><a href="https://pi.pokefans.net/online/tausch/angebote">Tauschbörse</a></li>
+                                    <li class="responsive-larger-1"><a href="https://forum.pokefans.net/">Forum</a></li>
+                                <li class="responsive-larger-x"><a href="https://mitarbeit.pokefans.net/">Mitmachen</a></li>
+                <li class="responsive-smaller-x"><a href="#search">Suche</a></li>
+                <li class="responsive-smaller-x"><a href="#menu">Menü</a></li>
+            </menu>
+        </div>
+    </div>
+</header>
+
+<hr class="none" />
+
+
+
+
+<main id="main">
+    
+<div id="frame" class="container clearfix">
+        
+<div id="content" class="column article-100">
+    <h1>Fehler</h1>            
+	<style type="text/css">
+	  #nav { display: none; }
+	  #top { display: none; }
+	  #footer { display: none; }
+	  hr { display: none; }
+	  #inhalt { padding-top: 30px; }
+	  form { margin: 20px auto 20px; }
+	  fieldset { text-align: center; }
+	  h1 { color:#BF0000; }
+	</style>
+	
+	<h1>Die angeforderte Seite ist leider nicht vorhanden.</h1>
+	<p>Eventuell war der Link zu dieser Seite fehlerhaft, oder du hast in deinen Webbrowser eine Adresse eingetippt, die es bei uns gar nicht gibt. Möglichweise kannst du die gesuchte Seite mit unserer Suchfunktion finden:</p>
+	
+	<fieldset><form action="http://www.google.de/cse" id="cse-search-box">
+		<input type="hidden" name="cx" value="partner-pub-6833700374537490:pu8d3i-s0sw" />
+		<input type="text" name="q" size="50" />
+		<input type="submit" name="sa" value="Suche" class="submit" />
+	</form>
+	</fieldset>
+	
+    </div>
+
+<br class="clear" />
+
+    </div>
+
+</main>
+
+
+
+<footer id="footer">
+    <div id="breadcrumbs">
+        <div class="container">
+             Du befindest dich hier: 
+		<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://pokefans.net/" itemprop="url"><span itemprop="title">Pokefans</span></a> » </div>
+		<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://pokefans.net/files/sprites/home/0774-000-shiny.png" itemprop="url" class="last"><span itemprop="title">Fehler</span></a></div><!-- Breadcrumbs-Count: 2 -->        </div>
+    </div>
+    <div id="copyright">
+        <div class="container clearfix">
+            <div class="copyright-note small">
+                <p>&copy; 2006&ndash;2017. Pokefans ist eine private Pokémon-Fanseite.</p>
+                <p>
+                    <a href="https://pokefans.net/pokefans/impressum">Kontakt</a> &ndash;
+                    <a href="https://pokefans.net/pokefans/impressum#datenschutz">Datenschutz</a> &ndash;
+                    <a href="https://pokefans.net/sitemap">Sitemap</a> &ndash;
+                    <a href="https://pokefans.net/pokefans/team/">Team</a>
+                </p>
+            </div>
+
+            <div class="copyright-links">
+                <a href="https://twitter.com/PokefansNET"><i class="fa fa-fw fa-twitter"></i></a>
+                <a href="https://www.facebook.com/pokefans.net"><i class="fa fa-fw fa-facebook"></i></a>
+                <a href="https://www.youtube.com/user/pokefansnet"><i class="fa fa-fw fa-youtube"></i></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script type="text/javascript" src="https://static.pokefans.net/javascript/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="https://static.pokefans.net/javascript/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="https://static.pokefans.net/javascript/pokefans/bootstrap.min.js"></script>
+
+
+
+<!--
+Debugging Info:
+    container = inhalt
+    template = container/inhalt
+-->
+</body>
+</html>
